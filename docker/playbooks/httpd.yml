@@ -7,3 +7,4 @@
       apt:
         name: apache2 # Package name for Apache HTTP Server
         state: present
+
